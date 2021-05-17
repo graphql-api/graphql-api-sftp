@@ -1,0 +1,11 @@
+{
+  "name": "@graphql-api/sftp",
+  "version": "0.0.1",
+  "dependencies": {
+    "ssh2-sftp-client": "^6.0.1"
+  },
+  "peerDependencies": {
+    "graphql-upload": "^12.0.0",
+    "graphql-scalars": "^1.9.3"
+  }
+}
